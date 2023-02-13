@@ -1,0 +1,16 @@
+{
+    "Dfmt01": {
+        "sep":[","],
+        "fields":{"id":{}, "status":{}}
+    },
+    "Dfmt02": {
+        "sep":[","],
+        "fields":{"id":{}, "valid":{}, "sat":{}, "h":{}, "m":{}, "s":{},
+        "D":{}, "M":{}, "Y":{}, "lat":{}, "long":{}, "course":{}, "speed":{}}
+    },
+    "Dfmt03": {
+        "sep":[","],
+        "fields":{"id":{}, "remote_shutdown":{}, "vehicle_status":{}, "charging":{}, "bat":{}}
+    }
+            
+}
